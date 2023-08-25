@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I did not add all the unit tests because of time constraints
 
 ## Available Scripts
 
